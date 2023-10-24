@@ -1,18 +1,18 @@
-# 7DayOfCode - Pandas
+![image](https://github.com/Mathsnts18/7DayOfCode-Pandas/assets/140824110/5b705f7f-d107-4bda-9ac5-b724d787b651)
 
-## O que é?
+## 🧑‍🏫 O que é?
 Durante os 7 Days de Python Pandas, você vai treinar suas habilidades de manipulação, visualização e análise de dados utilizando Python Pandas.
 
-## Objetivo
+## 🚀 Objetivo
 O objetivo será explorar os dados de empréstimos dos acervos do sistema de bibliotecas da UFRN e, para isso, você passará por diversas funcionalidades que o Pandas pode oferecer, desde a importação de diversos formatos de dados, agregações, divisões e transformações de tabelas, e até a exportação de tabelas estilizadas com sua análise pronta para ser inserida em alguma aplicação.
 
-## Ferramentas utilizadas
+## 🛠️ Ferramentas utilizadas
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-## Desenvolvimento
+## 🖥️ Desenvolvimento
 ### Dia 1: Importação de dados
 
 - Importar o pandas
@@ -61,3 +61,9 @@ O objetivo será explorar os dados de empréstimos dos acervos do sistema de bib
 - Criar uma nova tabela com os valores em diferenças percentuais em relação ao ano anterior
 - Estilizar a tabela
 - Salvar em formato HTML
+
+## 💡 Conclusão
+Após o término, pude perceber a relevância de entender o contexto do desafio e fazer o tratamento dos dados de forma adequada. A cada mínimo detalhe negligenciado pode potencialmente ocasionar mudanças substanciais nos dados.
+Durante o percurso, compreendi a necessidade de empregar as técnicas e metodogias apropriadas para analisar e interpretar os dados, e buscar novas soluções de forma autônoma.
+Colocar em prática os conhecimento adquiridos em aula se mostra essencial, e sinto-me mais bem preparado e com novos aprendizados.
+
